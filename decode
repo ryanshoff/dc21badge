@@ -1,0 +1,16 @@
+#!/usr/bin/env perl
+
+sub decode {
+	my ($rot, $n) = @_;
+	my $ord = 64 + ($n + $rot - 1) % 26 + 1;
+	return chr($ord);
+}
+
+my $rot = <>;
+while (<>) {
+	for my $n (split) {
+		my $n_ = decode($rot, $n);
+		print "$n_";
+	}
+	print "\n";
+}

@@ -9,7 +9,8 @@ Badges have playing card designs varrying by suit and number.  On the
 back of each card is a string of numbers.  These appear to be 2-digit
 numbers ranging from 01-26 which are ordinals into a mapping of
 the alphabet.  The mapping is either the standard A-Z mapping or ROT-13,
-seemingly indicated by the suit.
+seemingly indicated by the suit.  At least some of the sentence
+fragements are from Rush's Tom Sawyer.
 
 Badges also have a 3-digit binary number on the back.  Some badges also
 depict a simple number generator that produces the following sequence.

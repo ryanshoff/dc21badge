@@ -22,3 +22,17 @@ depict a simple number generator that produces the following sequence.
     110 (6)   |
     111 (7)   |
     011 (3) --+
+
+
+ryan@ryan-Link:~/dc21badge$ for f in *.txt; do ./decode $f; done
+THOUGHHISMINDISNOTFORRENT
+DONTPUTHIMDOWNASARROGANT
+PATHSNOTOFTENREPEATED
+TRYSOMETHINGELSE
+MAYTAKEYOUDOWN
+THEFIRSTISTHELAST
+GISTEREDTHATTAPAT
+NTHISKEYX
+EEDINTHEREALORDER
+FIRSTISTHELASTBEE
+

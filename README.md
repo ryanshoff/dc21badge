@@ -41,7 +41,6 @@ http://en.wikipedia.org/wiki/Euler%27s_identity could connect them.
     MAYTAKEYOUDOWN
     THANFINDINGANSYERS
     PATHSNOTOFTENREPEATED
-    THEFIRSTISTHELAST
     THESKYSWI
     NTHISKEYX
     NOTINBLAC
@@ -53,3 +52,4 @@ http://en.wikipedia.org/wiki/Euler%27s_identity could connect them.
     FIRSTISTHELASTBEE
     THEFIRSTISTHELAST
     ZEROAXDONEWILLBEA
+    NOTALLWHOWANDERARELOST

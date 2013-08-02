@@ -12,8 +12,6 @@ the alphabet.  The mapping is either the standard A-Z mapping or ROT-13,
 seemingly indicated by the suit.  At least some of the sentence
 fragements are from Rush's Tom Sawyer.
 
-THERE MAY BE MULTIPLE VERSIONS OF SAME CARDS DIFFERENT ONLY BY 3BIT BINARY AND CRYPTO STRING
-
 Badges also have a 3-digit binary number on the back.  Some badges also
 depict a simple number generator that produces the following sequences.
 
@@ -46,9 +44,9 @@ http://en.wikipedia.org/wiki/Euler%27s_identity could connect them.
     DEFCON_07-000.txt	ROTTHIRTEENCANBEFUN
     DEFCON_10-001.txt	BUTSOMETIMESLEADSASTRAY
     DEFCON_11-101.txt	MAYTAKEYOUDOWN
-    DEFCON_12-100.txt	THANFINDINGANSYERS
+    DEFCON_12-100.txt	THATFINDINGANSWERS
     DEFCON_13-110.txt	PATHSNOTOFTENREPEATED
-    DEFCON_A-xxx.txt	NOTALLWHOWANDERARELOST
+    DEFCON_A-111.txt	NOTALLWHOWANDERARELOST
     KEYHOL_02-000.txt	THESKYSWI
     KEYHOL_05-100.txt	BUTSHADEO
     KEYHOL_07-001.txt	LLCLEARUP
@@ -61,7 +59,6 @@ http://en.wikipedia.org/wiki/Euler%27s_identity could connect them.
     ROTARY_07-100.txt	GISTEREDTHATTAPAT
     ROTARY_10-111.txt	EEDINTHEREALORDER
     ROTARY_11-010.txt	FIRSTISTHELASTBEE
-    ROTARY_12-100.txt	THATFINDINGANSWERS
     ROTARY_12-111.txt	THEFIRSTISTHELAST
     ROTARY_13-101.txt	ZEROAXDONEWILLBEA
     ROTARY_A-001.txt	INTHEREALORDERTHE

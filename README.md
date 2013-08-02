@@ -26,14 +26,14 @@ depict a simple number generator that produces the following sequence.
 e, pi and a circular icon also appear on different suits instead of the circuit.
 http://en.wikipedia.org/wiki/Euler%27s_identity could connect them.
 
+    CATCHTHEMYSTERYCATCHTHEDRIFT
     HISRESERVEAQUIETDEFENSE
     BUTTHISISFUNRIGHT
     THOUGHHISMINDISNOTFORRENT
     CATCHTHOMISTCATCHTHEMYTH
-    CATCHTHEMYSTERYCATCHTHEDRIFT
+    RIDINGOUTTHEDAYSEYENTS
     ROTTHIQTEENPROBABLYISNTRIGHT
     DONTPUTHIMDOWNASARROGANT
-    RIDINGOUTTHEDAYSEYENTS
     ANDYOUWILLSEE
     TRYSOMETHINGELSE
     ROTTHIRTEENCANBEFUN
@@ -46,8 +46,6 @@ http://en.wikipedia.org/wiki/Euler%27s_identity could connect them.
     BUTSHADEO
     NTHISKEYX
     NOTINBLAC
-    NOTINBLAC
-    ELPYOUTUR
     ELPYOUTUR
     LLTHEFEEDBACKYOUN
     XCLUSIVEORHASITRE
@@ -57,4 +55,3 @@ http://en.wikipedia.org/wiki/Euler%27s_identity could connect them.
     THEFIRSTISTHELAST
     ZEROAXDONEWILLBEA
     THATFINDINGANSWERS
-    NOTALLWHOWANDERARELOST

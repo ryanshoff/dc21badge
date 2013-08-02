@@ -55,3 +55,4 @@ http://en.wikipedia.org/wiki/Euler%27s_identity could connect them.
     ROTARY_12-111.txt THEFIRSTISTHELAST
     ROTARY_13-xxx.txt ZEROAXDONEWILLBEA
     ROTARY_QUEEN-100.txt THATFINDINGANSWERS
+    ROTARY_QUEEN-111-goon.txt THEFIRSTISTHELAST

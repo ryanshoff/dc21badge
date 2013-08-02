@@ -1,3 +1,8 @@
+#!/bin/sh
+
+out=README.md
+
+cat <<EOF >$out
 Overview
 ========
 
@@ -26,28 +31,6 @@ depict a simple number generator that produces the following sequence.
 e, pi and a circular icon also appear on different suits instead of the circuit.
 http://en.wikipedia.org/wiki/Euler%27s_identity could connect them.
 
-    THOUGHHISMINDISNOTFORRENT
-    CATCHTHEMYSTERYCATCHTHEDRIFT
-    DONTPUTHIMDOWNASARROGANT
-    CATCHTHOMISTCATCHTHEMYTH
-    ROTTHIQTEENPROBABLYISNTRIGHT
-    PATHSNOTOFTENREPEATED
-    TRYSOMETHINGELSE
-    BUTSOMETIMESLEADSASTRAY
-    ANDYOUWILLSEE
-    TRYSOMETHINGELSE
-    ROTTHIRTEENCANBEFUN
-    MAYTAKEYOUDOWN
-    PATHSNOTOFTENREPEATED
-    THANFINDINGANSYERS
-    THEFIRSTISTHELAST
-    THESKYSWI
-    ELPYOUTUR
-    NTHISKEYX
-    EEDINTHEREALORDER
-    LLTHEFEEDBACKYOUN
-    XCLUSIVEORHASITRE
-    GISTEREDTHATTAPAT
-    FIRSTISTHELASTBEE
-    ZEROAXDONEWILLBEA
-    THEFIRSTISTHELAST
+EOF
+
+for f in *.txt; do ./decode $f; done | sed 's/^/    /' >>$out

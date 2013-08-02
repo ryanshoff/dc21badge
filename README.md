@@ -42,6 +42,7 @@ http://en.wikipedia.org/wiki/Euler%27s_identity could connect them.
     PATHSNOTOFTENREPEATED
     THESKYSWI
     BUTSHADEO
+    KANDWHITE
     NTHISKEYX
     NOTINBLAC
     ELPYOUTUR

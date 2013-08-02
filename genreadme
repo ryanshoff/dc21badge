@@ -33,4 +33,4 @@ http://en.wikipedia.org/wiki/Euler%27s_identity could connect them.
 
 EOF
 
-for f in *.txt; do ./decode $f; done | sed 's/^/    /' >>$out
+for f in *.txt; do echo -n $f; echo -n " "; ./decode $f; done | sed 's/^/    /' >>$out

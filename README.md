@@ -40,6 +40,7 @@ http://en.wikipedia.org/wiki/Euler%27s_identity could connect them.
     DEFCON_11-101.txt	MAYTAKEYOUDOWN
     DEFCON_12-100.txt	THANFINDINGANSYERS
     DEFCON_13-110.txt	PATHSNOTOFTENREPEATED
+    DEFCON_A-xxx.txt	NOTALLWHOWANDERARELOST
     KEYHOL_02-000.txt	THESKYSWI
     KEYHOL_05-100.txt	BUTSHADEO
     KEYHOL_07-001.txt	LLCLEARUP
@@ -55,4 +56,3 @@ http://en.wikipedia.org/wiki/Euler%27s_identity could connect them.
     ROTARY_12-111.txt	THEFIRSTISTHELAST
     ROTARY_13-xxx.txt	ZEROAXDONEWILLBEA
     ROTARY_A-001.txt	INTHEREALORDERTHE
-    uber.txt	NOTALLWHOWANDERARELOST

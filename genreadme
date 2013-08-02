@@ -18,7 +18,12 @@ seemingly indicated by the suit.  At least some of the sentence
 fragements are from Rush's Tom Sawyer.
 
 Badges also have a 3-digit binary number on the back.  Some badges also
-depict a simple number generator that produces the following sequence.
+depict a simple number generator that produces the following sequences.
+
+      +-------+
+      v       |
+              |
+    000 (0) --+
 
     001 (1) <-+
     100 (4)   |

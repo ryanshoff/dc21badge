@@ -41,6 +41,7 @@ http://en.wikipedia.org/wiki/Euler%27s_identity could connect them.
     THANFINDINGANSYERS
     PATHSNOTOFTENREPEATED
     THESKYSWI
+    BUTSHADEO
     NTHISKEYX
     NOTINBLAC
     ELPYOUTUR

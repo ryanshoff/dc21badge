@@ -45,4 +45,10 @@ http://en.wikipedia.org/wiki/Euler%27s_identity could connect them.
 
 EOF
 
-for f in *.txt; do ./decode $f | sed -e "s/^/$f	/"; done | sed 's/^/    /' >>$out
+for f in *.txt; do
+    suit=`echo $f | sed 's/\(......\).*/\1/'`
+    number=`echo $f | sed 's/......_\([^-]*\).*/\1/'`
+    binary=`echo $f | sed 's/......_[^-]*-\(...\).*/\1/'`
+    printf "$suit$binary|%2s-$suit " $number
+    ./decode $f
+done | sort | sed 's/.\{10\}/    /' >>$out

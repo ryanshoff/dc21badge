@@ -16,7 +16,7 @@ https://www.defcon.org/1o57/dc21/homodoxian/ is a clue.
 Another floor puzzle, the sun clock, can be decoded with rod numerals.
 https://www.defcon.org/1o57/dc21/orrery/ is a clue.
 
-Perhaps the cyrptogram on the top left of the sign outside the 1057 room reads:
+The cyrptogram on the top left of the sign outside the 1057 room reads:
     HAVE FUN
     NEED HELP
     JUST ASK

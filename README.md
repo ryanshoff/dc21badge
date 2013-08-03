@@ -49,6 +49,7 @@ http://en.wikipedia.org/wiki/Euler%27s_identity could connect them.
     KEYHOL_02-000.txt	THESKYSWI
     KEYHOL_05-100.txt	BUTSHADEO
     KEYHOL_07-001.txt	LLCLEARUP
+    KEYHOL_10-101.txt	FTHEBITSH
     KEYHOL_11-011.txt	KANDWHITE
     KEYHOL_12-111.txt	NTHISKEYX
     KEYHOL_13-010.txt	NOTINBLAC

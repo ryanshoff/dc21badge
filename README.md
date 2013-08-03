@@ -16,6 +16,16 @@ https://www.defcon.org/1o57/dc21/homodoxian/ is a clue.
 Another floor puzzle, the sun clock, can be decoded with rod numerals.
 https://www.defcon.org/1o57/dc21/orrery/ is a clue.
 
+Perhaps the cyrptogram on the top left of the sign outside the 1057 room reads:
+    HAVE FUN
+    NEED HELP
+    JUST ASK
+    PASSCODE
+    SYZYGY
+
+The symbols are also from "Chain of Death".
+
+
 Badges have playing card designs varrying by suit and number.  On the
 back of each card is a string of numbers.  These appear to be 2-digit
 numbers ranging from 01-26 which are ordinals into a mapping of

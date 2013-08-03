@@ -5,6 +5,9 @@ DEFCON 21 badge hacking.  Work in progress.
 
 Details
 =======
+Also see
+https://groups.google.com/forum/#!forum/defconbadgepuzzle
+
 On the floor is a cypher for the 1930's novelette "Chain of Death".
 It reads "KEYWORDHMODOXIAN".  Maybe an O is missing. Maybe we screwed it up.
 

@@ -1,0 +1,32 @@
+#!/usr/bin/env perl
+#
+# alphaotp FILE1 FILE2
+
+my ($f1, $f2) = @ARGV;
+
+open F1, $f1;
+open F2, $f2;
+
+sub getnext {
+	my ($fh) = @_;
+	my $c;
+	while (1) {
+		read($fh, $c, 1) or return;
+		$c = lc($c);
+		return $c if ($c ge 'a' and $c le 'z');
+	}
+}
+
+my $count = 0;
+while (1) {
+	my $c1 = getnext(F1) or last;
+	my $c2 = getnext(F2) or last;
+	my $tmp = (ord($c1) - ord($c2) + 26 ) % 26;
+	print chr($tmp + ord('a'));
+	$count += 1;
+	if ($count >= 72) {
+		print "\n";
+		$count = 0;
+	}
+}
+print "\n";
